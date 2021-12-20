@@ -1,0 +1,2 @@
+python divide_image.py --image_file_name '11.jpg' --column_num 7 --row_num 5 --prefix_output_filename 'test'
+python merge_image.py --input_filename_prefix 'test' --column_num 7 --row_num 5 --output_filename 'output.jpg'
